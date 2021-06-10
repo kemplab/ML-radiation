@@ -7,6 +7,6 @@ Contact Josh Lewis (j.e.lewis@emory.edu) with questions or feedback
 **Citation:**
 If you use data, models, or code from this repository in a scientific publication, we would appreciate citation of the following paper:
 
-Lewis, J. et al. (2020). Integration of machine learning and genome-scale metabolic modeling identifies multi-omics biomarkers for radiation resistance. bioRxiv 2020.08.02.233098; doi: https://doi.org/10.1101/2020.08.02.233098
+Lewis JE, Kemp ML. Integration of machine learning and genome-scale metabolic modeling identifies multi-omics biomarkers for radiation resistance. Nat Commun. 2021 May 11;12(1):2700. doi: 10.1038/s41467-021-22989-1. PMID: 33976213; PMCID: PMC8113601.
 
-https://www.biorxiv.org/content/10.1101/2020.08.02.233098v1
+https://www.nature.com/articles/s41467-021-22989-1
